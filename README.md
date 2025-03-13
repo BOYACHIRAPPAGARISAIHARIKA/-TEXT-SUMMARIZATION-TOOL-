@@ -1,1 +1,14 @@
 # -TEXT-SUMMARIZATION-TOOL-
+
+COMPANY:CODTECH IT SOLUTIONS
+
+NAME: Boya chirrappa gari sai harika
+
+INTERN ID:CT04WF18
+
+DOMAIN: Artificial intelligence
+
+DURATION:4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
